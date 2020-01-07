@@ -1,6 +1,6 @@
 This is the repo for Principles of Computer Systems code, which consists 6 different projects. All projects are mainly implemented in C/C++.
 
-Content:
+**Content:**
 
 1. Unix Filesystem Implementation
 
