@@ -1,12 +1,14 @@
-### Project 1: Unix Filesystem Implementation
+This is the repo for Principles of Computer Systems code. 
 
-### Project 2: Subprocess & Pipeline Experimentation
+#### Project 1: Unix Filesystem Implementation
 
-### Project 3: Shell Lab
+#### Project 2: Subprocess & Pipeline Experimentation
 
-### Project 4: Threadpool Lab
+#### Project 3: Shell Lab
 
-### Project 5: Proxy Lab
+#### Project 4: Threadpool Lab
 
-### Project 6: Map-reduce model 
+#### Project 5: Proxy Lab
+
+#### Project 6: Map-reduce model 
 
